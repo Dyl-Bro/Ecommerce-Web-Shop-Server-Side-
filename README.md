@@ -182,7 +182,7 @@ axios(config)
 ```
 {
     "user": "op@gmail.com",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MTU2MWY2ZmFiZTA0MzUzZDBmZjRiYzgiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE2Mzk0NTMwNjEsImV4cCI6MTYzOTUzOTQ2MX0.zzpvspsau5wQgeOQbquhhYoM0-JJFIbu7S-XSn4QXnY"
+    "token": "............"
 }
 ```
 
